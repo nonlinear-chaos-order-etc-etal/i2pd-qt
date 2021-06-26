@@ -81,6 +81,7 @@ INCLUDEPATH += src
 INCLUDEPATH += src/i2pd/daemon
 INCLUDEPATH += src/i2pd/libi2pd
 INCLUDEPATH += src/i2pd/libi2pd_client
+INCLUDEPATH += src/i2pd/i18n
 
 FORMS += \
     src/mainwindow.ui \
